@@ -1,6 +1,6 @@
 
-# msa-swagger
+# msa-swagger-ui
 
-Custom theme for swagger-ui. Based on the [Newspaper theme](https://github.com/ostranme/swagger-ui-themes/) by Mark Ostrander.
+Swagger-UI 2.2.6 + custom MSA theme.
 
-Includes swagger-ui 2.2.6 from [github.com/swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui).
+Theme based on the Newspaper theme by Mark Ostrander.
